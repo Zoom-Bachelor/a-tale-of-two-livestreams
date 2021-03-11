@@ -3,9 +3,11 @@
 
 Last summer, we were looking for twelve ladies to compete over livestream for San Francisco-based investor Sheel Mohnot’s heart. But we were having trouble. Ladies were turning us down, not out of lack of interest for becoming Mr. Mohnot’s Zoom fiancee at the end of Zoom Bachelor, but out of fear of being harassed and stalked.
 
-When we produced our previous show, Zoom Bachelorette, none of the twelve male suitors worried about harassment. Especially since it is reported that more men get harassed and receive physical threats online, why weren’t the men worried at all?
+When we produced our previous show, Zoom Bachelorette, none of the twelve male suitors worried about harassment. Especially since it is reported that [more men get harassed and receive physical threats online](https://www.pewresearch.org/internet/2021/01/13/the-state-of-online-harassment/), why weren’t the men worried at all?
 
 Digging into this disparity led us to a conclusion that surprised both us.
+
+![Image of ZoomBachelor](https://github.com/Zoom-Bachelor/a-tale-of-two-livestreams/blob/main/Screen%20Shot%202021-03-11%20at%2012.18.16%20AM.png)
 
 ## Unequal cultures of fear
 Why did we see such a difference between the Zoom Bachelor and Zoom Bachelorette contestants? One reason seems to be that, for the women, conversations meant to fix gender inequality have become warnings to stay out.
