@@ -1,7 +1,7 @@
 # 👸🏻 A Tale of Two Livestreams 🤴🏾
 ## What Casting *Zoom Bachelor* Taught Us About Gender Inequality
 
-*Originally a collaboration between [Maria Shen](https://twitter.com/MariaShen) and [Jean Yang](https://twitter.com/jeanqasaur).*
+*Originally a collaboration between [Maria Shen](https://twitter.com/MariaShen) and [Jean Yang](https://twitter.com/jeanqasaur). This is also on Medium [here](https://zoombachelor.medium.com/a-tale-of-two-livestreams-74a10fd11d11).*
 
 Last summer, we were looking for twelve ladies to compete over livestream for San Francisco-based investor Sheel Mohnot’s heart. But we were having trouble. Ladies were turning us down, not out of lack of interest for becoming Mr. Mohnot’s Zoom fiancee at the end of [*Zoom Bachelor*](https://www.zoombachelor.com/), but out of fear of being harassed and stalked.
 
