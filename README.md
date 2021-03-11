@@ -58,3 +58,5 @@ We’ll start by giving an example of the conversations we would like to be havi
 * **Denying that discrimination exists.** Women face discrimination. While we argue here that they don’t need to be repeatedly told about it, you should be aware of it.
 * **Mentoring women without also championing them.** Recommend them for positions, promote their work, fund them.
 * **Telling women starting in their field that the cards are stacked against them.** This can be very demotivating for junior women.
+
+We put this on GitHub so that you can contribute. Please feel free to submit pull requests!
