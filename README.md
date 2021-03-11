@@ -5,7 +5,7 @@
 
 Last summer, we were looking for twelve ladies to compete over livestream for San Francisco-based investor Sheel Mohnot’s heart. But we were having trouble. Ladies were turning us down, not out of lack of interest for becoming Mr. Mohnot’s Zoom fiancee at the end of [*Zoom Bachelor*](https://www.zoombachelor.com/), but out of fear of being harassed and stalked.
 
-When we produced our previous show, [*Zoom Bachelorette*](https://www.zoombachelorette.com/), none of the twelve male suitors worried about harassment. Especially since it is reported that [more men get harassed and receive physical threats online](https://www.pewresearch.org/internet/2021/01/13/the-state-of-online-harassment/), why weren’t the men worried at all?
+When we produced our previous show, [*Zoom Bachelorette*](https://www.zoombachelorette.com/), none of the men we screened for our twelve male suitors worried about harassment. Especially since it is reported that [more men get harassed and receive physical threats online](https://www.pewresearch.org/internet/2021/01/13/the-state-of-online-harassment/), why weren’t the men worried at all?
 
 Digging into this disparity led us to a conclusion that surprised both us.
 
