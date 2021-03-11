@@ -50,7 +50,7 @@ We’ll start by giving an example of the conversations we would like to be havi
 
 ### Stop doing these things
 * **Having quotas at the hiring level.** This means you have evaluation standards for women, which is explicit bias. Even if this seems to help women in the short-term, and will lead to more explicit bias in the long term.
-* **Treat junior women like they’re fragile.** Give women the feedback they need to improve! If they don’t see or understand where they can improve, then they do not progress in their career and it hurts them longer term.
+* **Treating junior women like they’re fragile.** Give women the feedback they need to improve! If they don’t see or understand where they can improve, then they do not progress in their career and it hurts them longer term.
 * **Assuming women have a lower career ceiling than their colleagues.** Assume your female reports are as ambitious and capable as anyone else on your team and give them the support and feedback to get where they need to go.
 
 ## Public role models of all genders
