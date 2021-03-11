@@ -19,7 +19,7 @@ One of our favorite *Zoom Bachelor* ex-contestants cited articles about online h
 Not only is this culture of fear limiting women’s livestreamed romance opportunities, but it’s also impacting progress towards gender equality. Up to now, conversations about gender equality have focused on women. Girls are taken aside for extra encouragement and extra warnings. Women in workplaces are taken aside for advice lunches and advice summits. There are all too many "I read…" and "I heard…" reasons for women declining career opportunities and staying out of certain careers. While people mean well, girls are growing up into women who believe that they have to be very, very cautious—or bad things will happen.
 
 ## Let’s change the way we talk about gender equality
-For better or worse, the audience of gender inequality conversations seems to be mostly women. Most Americans believe sexism exists, but most of them are women. At the same time, more than half of men—56%—believe sexism is no longer an issue.
+For better or worse, the audience of gender inequality conversations seems to be mostly women. Most Americans believe sexism exists, but [most of them are women](https://www.pewresearch.org/fact-tank/2016/08/16/in-both-parties-men-and-women-differ-over-whether-women-still-face-obstacles-to-progress/). At the same time, more than half of men—56%—believe sexism is no longer an issue.
 
 Focusing the gender conversation about women seems to have reached its limits. While it’s helpful to get occasional validation and advice, women are not the most in need of education about gender inequality. And we could definitely share the burden in progressing toward gender equality.
 
