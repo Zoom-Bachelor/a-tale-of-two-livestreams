@@ -7,7 +7,7 @@ Last summer, we were looking for twelve ladies to compete over livestream for Sa
 
 When we produced our previous show, [*Zoom Bachelorette*](https://www.zoombachelorette.com/), none of the men we screened for our twelve male suitors worried about harassment. Especially since it is reported that [more men get harassed and receive physical threats online](https://www.pewresearch.org/internet/2021/01/13/the-state-of-online-harassment/), why weren’t the men worried at all?
 
-Digging into this disparity led us to a conclusion that surprised both us. In this post, we discuss why we need to talk about gendered issues differently and give a list of actionable things non-women should and should not be doing as an example.
+Digging into this disparity led us to a conclusion that surprised both us. In this post, we discuss why we need to talk about gendered issues differently and give a list of actionable things non-women could be doing.
 
 ![Image of ZoomBachelor](https://github.com/Zoom-Bachelor/a-tale-of-two-livestreams/blob/main/Screen%20Shot%202021-03-11%20at%2012.18.16%20AM.png)
 
