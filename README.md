@@ -1,22 +1,6 @@
-# 👸🏻 A Tale of Two Livestreams 🤴🏾
-## What Casting *Zoom Bachelor* Taught Us About Gender Inequality
+# Actionable tips for gender equality
 
-*Originally a collaboration between [Maria Shen](https://twitter.com/MariaShen) and [Jean Yang](https://twitter.com/jeanqasaur). This is also on Medium [here](https://zoombachelor.medium.com/a-tale-of-two-livestreams-74a10fd11d11).*
-
-Last summer, we were looking for twelve ladies to compete over livestream for San Francisco-based investor Sheel Mohnot’s heart. But we were having trouble. Ladies were turning us down, not out of lack of interest for becoming Mr. Mohnot’s Zoom fiancee at the end of [*Zoom Bachelor*](https://www.zoombachelor.com/), but out of fear of being harassed and stalked.
-
-When we produced our previous show, [*Zoom Bachelorette*](https://www.zoombachelorette.com/), none of the men we screened for our twelve male suitors worried about harassment. Especially since it is reported that [more men get harassed and receive physical threats online](https://www.pewresearch.org/internet/2021/01/13/the-state-of-online-harassment/), why weren’t the men worried at all?
-
-Digging into this disparity led us to a conclusion that surprised both us. In this post, we discuss why we need to talk about gendered issues differently and give a list of actionable things non-women could be doing.
-
-![Image of ZoomBachelor](https://github.com/Zoom-Bachelor/a-tale-of-two-livestreams/blob/main/Screen%20Shot%202021-03-11%20at%2012.18.16%20AM.png)
-
-## Unequal cultures of fear
-Why did we see such a difference between the *Zoom Bachelor* and *Zoom Bachelorette* contestants? One reason seems to be that, for the women, conversations meant to fix gender inequality have become warnings to stay out.
-
-One of our favorite *Zoom Bachelor* ex-contestants cited articles about online harassment, sent to her by well-intentioned friends, as her reason for dropping out of our show. We had several other "I read…" and "I heard…" conversations with other female contestants about their anxieties about appearing publicly. It did not seem that people were having these kinds of conversations with our male contestants. (Interestingly, Mr. Mohnot himself got the most negative internet reaction of everyone on the show, especially after saying he did not like dogs.)
-
-Not only is this culture of fear limiting women’s livestreamed romance opportunities, but it’s also impacting progress towards gender equality. Up to now, conversations about gender equality have focused on women. Girls are taken aside for extra encouragement and extra warnings. Women in workplaces are taken aside for advice lunches and advice summits. There are all too many "I read…" and "I heard…" reasons for women declining career opportunities and staying out of certain careers. While people mean well, girls are growing up into women who believe that they have to be very, very cautious—or bad things will happen.
+We put this on GitHub so that you can contribute. Please feel free to submit pull requests!
 
 ## Let’s change the way we talk about gender equality
 For better or worse, the audience of gender inequality conversations seems to be mostly women. Most Americans believe sexism exists, but [most of them are women](https://www.pewresearch.org/fact-tank/2016/08/16/in-both-parties-men-and-women-differ-over-whether-women-still-face-obstacles-to-progress/). At the same time, more than half of men—56%—believe sexism is no longer an issue.
@@ -63,4 +47,21 @@ We’ll start by giving an example of the conversations we would like to be havi
 * **Mentoring women without also championing them.** Recommend them for positions, promote their work, fund them.
 * **Telling women starting in their field that the cards are stacked against them.** This can be very demotivating for junior women.
 
-We put this on GitHub so that you can contribute. Please feel free to submit pull requests!
+## Backstory: What Casting *Zoom Bachelor* Taught Us About Gender Inequality
+
+*Originally a collaboration between [Maria Shen](https://twitter.com/MariaShen) and [Jean Yang](https://twitter.com/jeanqasaur). This is also on Medium [here](https://zoombachelor.medium.com/a-tale-of-two-livestreams-74a10fd11d11).*
+
+Last summer, we were looking for twelve ladies to compete over livestream for San Francisco-based investor Sheel Mohnot’s heart. But we were having trouble. Ladies were turning us down, not out of lack of interest for becoming Mr. Mohnot’s Zoom fiancee at the end of [*Zoom Bachelor*](https://www.zoombachelor.com/), but out of fear of being harassed and stalked.
+
+When we produced our previous show, [*Zoom Bachelorette*](https://www.zoombachelorette.com/), none of the men we screened for our twelve male suitors worried about harassment. Especially since it is reported that [more men get harassed and receive physical threats online](https://www.pewresearch.org/internet/2021/01/13/the-state-of-online-harassment/), why weren’t the men worried at all?
+
+Digging into this disparity led us to a conclusion that surprised both us. In this post, we discuss why we need to talk about gendered issues differently and give a list of actionable things non-women could be doing.
+
+![Image of ZoomBachelor](https://github.com/Zoom-Bachelor/a-tale-of-two-livestreams/blob/main/Screen%20Shot%202021-03-11%20at%2012.18.16%20AM.png)
+
+## Unequal cultures of fear
+Why did we see such a difference between the *Zoom Bachelor* and *Zoom Bachelorette* contestants? One reason seems to be that, for the women, conversations meant to fix gender inequality have become warnings to stay out.
+
+One of our favorite *Zoom Bachelor* ex-contestants cited articles about online harassment, sent to her by well-intentioned friends, as her reason for dropping out of our show. We had several other "I read…" and "I heard…" conversations with other female contestants about their anxieties about appearing publicly. It did not seem that people were having these kinds of conversations with our male contestants. (Interestingly, Mr. Mohnot himself got the most negative internet reaction of everyone on the show, especially after saying he did not like dogs.)
+
+Not only is this culture of fear limiting women’s livestreamed romance opportunities, but it’s also impacting progress towards gender equality. Up to now, conversations about gender equality have focused on women. Girls are taken aside for extra encouragement and extra warnings. Women in workplaces are taken aside for advice lunches and advice summits. There are all too many "I read…" and "I heard…" reasons for women declining career opportunities and staying out of certain careers. While people mean well, girls are growing up into women who believe that they have to be very, very cautious—or bad things will happen.
